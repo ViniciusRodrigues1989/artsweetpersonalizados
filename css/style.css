@@ -169,7 +169,7 @@ a:focus {
   border: none;
   outline: none;
   color: #ffffff;
-  background-color: #c20b60;
+  background-color: #f3c93e;
   border-radius: 0 5px 5px 0;
 }
 
@@ -443,7 +443,7 @@ a:focus {
   text-align: center;
   height: 45px;
   line-height: 45px;
-  background-color: #3a4468;
+  background-color: #e6c6dc;
   color: #ffffff;
   position: absolute;
   bottom: 50%;
@@ -457,7 +457,7 @@ a:focus {
 }
 
 .product_section .box .img-box .add_cart_btn:hover {
-  background-color: #f3c93e;
+  background-color: #c20b60;
   color: #ffffff;
 }
 
@@ -536,7 +536,7 @@ a:focus {
 }
 
 .about_section {
-  background-color: #3a4468;
+  background-color: #dd6fba;
   color: #ffffff;
 }
 
